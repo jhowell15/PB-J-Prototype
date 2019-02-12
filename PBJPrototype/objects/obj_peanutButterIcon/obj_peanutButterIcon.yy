@@ -32,6 +32,14 @@
             "objectId": "69983a93-b64e-4829-8b1c-b5bd526b62be",
             "propertyId": "2e99dc3b-e5a0-4458-9ec3-af3871683f14",
             "value": "2"
+        },
+        {
+            "id": "a3441e2a-1780-4cff-8f6f-8836b040ea01",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "69983a93-b64e-4829-8b1c-b5bd526b62be",
+            "propertyId": "188573ba-9578-426f-a62f-1c7150e69dc4",
+            "value": "sfx_placePeanutButter"
         }
     ],
     "parentObjectId": "69983a93-b64e-4829-8b1c-b5bd526b62be",

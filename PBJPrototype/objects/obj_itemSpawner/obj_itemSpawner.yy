@@ -59,6 +59,20 @@
             "value": "0",
             "varName": "myItemType",
             "varType": 1
+        },
+        {
+            "id": "188573ba-9578-426f-a62f-1c7150e69dc4",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "sfx_placeBread",
+            "varName": "myPlacementSound",
+            "varType": 5
         }
     ],
     "solid": false,

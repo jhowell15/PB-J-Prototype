@@ -27,8 +27,11 @@ with (obj_gameManager) {
 				break;
 		}
 	
-		// increment index counter and give player some points
-		sandwichSpotIndex++;
-		playerScore += 5
+	// play appropriate placement noise
+	audio_play_sound(other.myPlacementSound, 10, false);
+	
+	// increment index counter and give player some points
+	sandwichSpotIndex++;
+	playerScore += 5
 	}
 }

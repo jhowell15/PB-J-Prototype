@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "2827a61f-9447-4239-9425-b45d1cd466a9",
+            "Value": {
+                "id": "4e5565f3-846a-4c4a-8ffe-7f472cf46b72",
+                "resourcePath": "sounds\\sfx_placeBread\\sfx_placeBread.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "2d2f084b-1264-45ef-aff0-d54024e06768",
             "Value": {
                 "id": "068e913e-def6-49bc-9dbc-428b8ce9d95d",
@@ -255,6 +263,14 @@
             }
         },
         {
+            "Key": "a60f1448-48d9-494b-892c-c238c150eaf9",
+            "Value": {
+                "id": "9efc4268-0f4e-484c-a707-b68166f8bcc0",
+                "resourcePath": "sounds\\sfx_placePeanutButter\\sfx_placePeanutButter.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "a7822ff3-267e-46ae-b3ba-b5b45c7dc79f",
             "Value": {
                 "id": "a3e046b1-e7c9-4ed9-83b2-8c4c65307d1e",
@@ -276,6 +292,14 @@
                 "id": "1def5e4a-06a2-4fae-816b-d4146f7fd434",
                 "resourcePath": "views\\b3a0c0cc-16ab-4c66-8312-1bff9afa55b8.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ba833a2a-388a-4191-af1a-e7420d9fdb43",
+            "Value": {
+                "id": "e9f50f62-6b7e-4201-8526-ce96ac31dea9",
+                "resourcePath": "sounds\\sfx_placeJam\\sfx_placeJam.yy",
+                "resourceType": "GMSound"
             }
         },
         {
