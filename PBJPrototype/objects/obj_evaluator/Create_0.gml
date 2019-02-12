@@ -14,7 +14,6 @@ if (obj_gameManager.Slot0 == 0)
 {
 	evalScore += 20;
 	instance_create_layer(evalPosX, evalPos0Y, "UILayer", correctMark);
-	show_debug_message("bottom correct");
 }
 else
 {
