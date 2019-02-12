@@ -13,6 +13,26 @@
             "enumb": 4,
             "eventtype": 6,
             "m_owner": "69983a93-b64e-4829-8b1c-b5bd526b62be"
+        },
+        {
+            "id": "3b4a6d7c-1c9d-4c9a-95ff-03802490b7d8",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 10,
+            "eventtype": 6,
+            "m_owner": "69983a93-b64e-4829-8b1c-b5bd526b62be"
+        },
+        {
+            "id": "dc7ad981-4865-479a-b68f-cbb3a1ee33f6",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 11,
+            "eventtype": 6,
+            "m_owner": "69983a93-b64e-4829-8b1c-b5bd526b62be"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -72,6 +92,34 @@
             "resourceFilter": 1023,
             "value": "sfx_placeBread",
             "varName": "myPlacementSound",
+            "varType": 5
+        },
+        {
+            "id": "e630f0b9-ff0b-4d68-9586-ce0ccc25832a",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "spr_breadIcon",
+            "varName": "myStandardSprite",
+            "varType": 5
+        },
+        {
+            "id": "1b5fc0e3-0822-4e55-b6d0-6a77d30b8a1b",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "spr_breadIconHighlighted",
+            "varName": "myHighlightedSprite",
             "varType": 5
         }
     ],

@@ -40,6 +40,22 @@
             "objectId": "69983a93-b64e-4829-8b1c-b5bd526b62be",
             "propertyId": "188573ba-9578-426f-a62f-1c7150e69dc4",
             "value": "sfx_placePeanutButter"
+        },
+        {
+            "id": "35f37c0d-449f-44cc-a28a-c83e9dbdbbc9",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "69983a93-b64e-4829-8b1c-b5bd526b62be",
+            "propertyId": "e630f0b9-ff0b-4d68-9586-ce0ccc25832a",
+            "value": "spr_peanutButterIcon"
+        },
+        {
+            "id": "be46eda9-de57-4565-a294-4a4b04a64b3f",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "69983a93-b64e-4829-8b1c-b5bd526b62be",
+            "propertyId": "1b5fc0e3-0822-4e55-b6d0-6a77d30b8a1b",
+            "value": "spr_peanutButterIconHighlighted"
         }
     ],
     "parentObjectId": "69983a93-b64e-4829-8b1c-b5bd526b62be",

@@ -40,6 +40,22 @@
             "objectId": "69983a93-b64e-4829-8b1c-b5bd526b62be",
             "propertyId": "188573ba-9578-426f-a62f-1c7150e69dc4",
             "value": "sfx_placeJam"
+        },
+        {
+            "id": "b247dde3-2ddd-45cb-99c9-e3cc82538bcb",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "69983a93-b64e-4829-8b1c-b5bd526b62be",
+            "propertyId": "e630f0b9-ff0b-4d68-9586-ce0ccc25832a",
+            "value": "spr_jamIcon"
+        },
+        {
+            "id": "6ad7d97d-935c-49cb-87e9-d9fc08e168a4",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "69983a93-b64e-4829-8b1c-b5bd526b62be",
+            "propertyId": "1b5fc0e3-0822-4e55-b6d0-6a77d30b8a1b",
+            "value": "spr_jamIconHighlighted"
         }
     ],
     "parentObjectId": "69983a93-b64e-4829-8b1c-b5bd526b62be",

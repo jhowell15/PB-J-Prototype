@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "190e1021-0722-4880-aa60-5871d48f019b",
+            "Value": {
+                "id": "45abbd17-2b57-4e12-abf9-87112d65b826",
+                "resourcePath": "sprites\\spr_jamIconHighlighted\\spr_jamIconHighlighted.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2055817b-c681-4f13-b0a9-caeaf7748579",
             "Value": {
                 "id": "30292b30-31dd-4f88-a632-f0c013dea52c",
@@ -180,6 +188,14 @@
                 "id": "48040ac8-b45e-4935-8011-81712b628b69",
                 "resourcePath": "objects\\obj_itemSpawner\\obj_itemSpawner.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6dfd2154-7437-47e3-80cf-9df4a0c53c39",
+            "Value": {
+                "id": "f748bef2-e6eb-469f-b47c-db755360d3a6",
+                "resourcePath": "sprites\\spr_peanutButterIconHighlighted\\spr_peanutButterIconHighlighted.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -332,6 +348,14 @@
                 "id": "ac0fbd1d-3d3d-4ab8-9115-182cb39554b3",
                 "resourcePath": "objects\\obj_breadSlice\\obj_breadSlice.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c2af525e-1f64-4728-b9a8-ab02444b3e4d",
+            "Value": {
+                "id": "2721cfd9-3041-44f7-b566-8ad15cf8954e",
+                "resourcePath": "sprites\\spr_breadIconHighlighted\\spr_breadIconHighlighted.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
