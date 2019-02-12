@@ -52,3 +52,18 @@ else
 
 // add eval score to current score
 obj_gameManager.playerScore += evalScore;
+
+// swap sprite for customer
+finalScore = obj_gameManager.playerScore;
+if (finalScore > 80)
+{
+	obj_customer.sprite_index = spr_satisfiedCustomer;
+}
+else if (finalScore > 60)
+{
+	obj_customer.sprite_index = spr_nonplussedCustomer;
+}
+else
+{
+	obj_customer.sprite_index = spr_angryCustomer;
+}
