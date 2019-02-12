@@ -79,6 +79,20 @@
             "value": "spr_resetButtonHighlighted",
             "varName": "myHighlightedSprite",
             "varType": 5
+        },
+        {
+            "id": "c2aafc71-05e5-4dcd-9f98-987113867b0f",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "sfx_resetButtonPress",
+            "varName": "myPressSound",
+            "varType": 5
         }
     ],
     "solid": false,

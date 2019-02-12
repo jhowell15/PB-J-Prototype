@@ -303,6 +303,14 @@
             }
         },
         {
+            "Key": "a2fcd8a3-6d1c-4352-aa0e-7d8f9c5cdd94",
+            "Value": {
+                "id": "04b1535d-475c-40fa-b9a1-04cea34f6bd8",
+                "resourcePath": "sounds\\sfx_resetButtonPress\\sfx_resetButtonPress.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "a60f1448-48d9-494b-892c-c238c150eaf9",
             "Value": {
                 "id": "9efc4268-0f4e-484c-a707-b68166f8bcc0",
