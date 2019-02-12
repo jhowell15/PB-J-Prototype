@@ -199,6 +199,22 @@
             }
         },
         {
+            "Key": "70e9f19f-df74-47f1-97b3-4a747309b1a7",
+            "Value": {
+                "id": "347d73fe-6a7f-4c47-ae74-46afaba540a4",
+                "resourcePath": "sprites\\spr_resetButton\\spr_resetButton.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7292a492-ab36-401a-9052-39e66ccc3d8a",
+            "Value": {
+                "id": "8b6f0ebc-6c04-4cdf-9fcd-2a6b27deaf9f",
+                "resourcePath": "sprites\\spr_resetButtonHighlighted\\spr_resetButtonHighlighted.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "74c49db0-cac4-43c3-8ad4-4c578d4fed5f",
             "Value": {
                 "id": "578b1a07-cc2c-4f48-8d44-ac304aaaae3e",
@@ -259,6 +275,14 @@
             "Value": {
                 "id": "2c61297c-020a-4fa1-9c25-35257bf9229e",
                 "resourcePath": "objects\\obj_pbSplat\\obj_pbSplat.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9aac63e0-86cd-497a-b920-7f75eac895a6",
+            "Value": {
+                "id": "4454ae8d-e5d2-4dc1-9026-b2cd1705e412",
+                "resourcePath": "objects\\obj_resetButton\\obj_resetButton.yy",
                 "resourceType": "GMObject"
             }
         },

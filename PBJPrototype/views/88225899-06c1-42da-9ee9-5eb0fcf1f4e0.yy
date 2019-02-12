@@ -9,7 +9,9 @@
         "5d2878b6-bf09-4df5-a9ce-f268d9565069",
         "190e1021-0722-4880-aa60-5871d48f019b",
         "7eb75fee-c18c-450d-8c5b-3bf6ee967be3",
-        "6dfd2154-7437-47e3-80cf-9df4a0c53c39"
+        "6dfd2154-7437-47e3-80cf-9df4a0c53c39",
+        "70e9f19f-df74-47f1-97b3-4a747309b1a7",
+        "7292a492-ab36-401a-9052-39e66ccc3d8a"
     ],
     "filterType": "GMSprite",
     "folderName": "UI Icons",
