@@ -31,7 +31,50 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "4d22a20c-bfa3-43d1-a85c-48cafa1834c0",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "obj_correctMark",
+            "varName": "correctMark",
+            "varType": 5
+        },
+        {
+            "id": "bf472d6e-99c7-4f21-94c9-29448f0cc17f",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "obj_halfCorrectMark",
+            "varName": "halfCorrectMark",
+            "varType": 5
+        },
+        {
+            "id": "77e38481-7360-44cd-9a47-c51cbdb99e34",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "obj_incorrectMark",
+            "varName": "incorrectMark",
+            "varType": 5
+        }
+    ],
     "solid": false,
     "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true

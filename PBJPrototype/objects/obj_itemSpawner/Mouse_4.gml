@@ -9,7 +9,7 @@ with (obj_gameManager) {
 		switch (sandwichSpotIndex) {
 			case 0:
 				instance_create_layer(spawnPointX, spawnPoint0Y, "Item0Layer", other.myItemInstance);
-				Slot0 = 0;
+				Slot0 = other.myItemType;
 				break;
 			case 1:
 				instance_create_layer(spawnPointX, spawnPoint1Y, "Item1Layer", other.myItemInstance);

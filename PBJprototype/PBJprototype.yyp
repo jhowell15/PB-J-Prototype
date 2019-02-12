@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "1addc6a0-83f2-407e-9fb2-8c09273b8652",
+            "Value": {
+                "id": "e19c5597-681d-4a93-83d4-c8c689910070",
+                "resourcePath": "views\\1addc6a0-83f2-407e-9fb2-8c09273b8652.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "2055817b-c681-4f13-b0a9-caeaf7748579",
             "Value": {
                 "id": "30292b30-31dd-4f88-a632-f0c013dea52c",
@@ -119,11 +127,27 @@
             }
         },
         {
+            "Key": "34e32f49-976f-4f0e-8de2-46faf6ff6955",
+            "Value": {
+                "id": "478cd52d-9262-4780-86f7-363511ed7014",
+                "resourcePath": "sprites\\spr_incorrectMark\\spr_incorrectMark.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3502792f-b1ca-4026-8aff-735ab9252618",
             "Value": {
                 "id": "1640b1dd-26e1-4687-97f7-87e09f197e83",
                 "resourcePath": "views\\3502792f-b1ca-4026-8aff-735ab9252618.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "43c75be5-d463-4b16-a394-2096106864fb",
+            "Value": {
+                "id": "8cc4e009-a4a1-4f8a-9ee7-bc257fc73897",
+                "resourcePath": "objects\\obj_halfCorrectMark\\obj_halfCorrectMark.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -140,6 +164,14 @@
                 "id": "eda9cf16-077e-4cf6-8ecf-badea4740f92",
                 "resourcePath": "objects\\obj_breadIcon\\obj_breadIcon.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4fdecc43-ed2c-43f7-8f3a-0997fd0f1cfe",
+            "Value": {
+                "id": "0a0c2cce-ee5d-43ae-9eb9-d4b8f7bc3693",
+                "resourcePath": "views\\4fdecc43-ed2c-43f7-8f3a-0997fd0f1cfe.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -279,6 +311,14 @@
             }
         },
         {
+            "Key": "97ab06b2-bf77-4de3-9749-cb4813017902",
+            "Value": {
+                "id": "9a8dc5a3-db74-443a-a27e-6c8cc7e9f02d",
+                "resourcePath": "sprites\\spr_halfCorrectMark\\spr_halfCorrectMark.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9aac63e0-86cd-497a-b920-7f75eac895a6",
             "Value": {
                 "id": "4454ae8d-e5d2-4dc1-9026-b2cd1705e412",
@@ -343,6 +383,14 @@
             }
         },
         {
+            "Key": "ba53c3d5-7549-47a7-88e9-2df45713ee4b",
+            "Value": {
+                "id": "6395a0c2-764d-483f-b462-c142f8a5807c",
+                "resourcePath": "sprites\\spr_correctMark\\spr_correctMark.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ba833a2a-388a-4191-af1a-e7420d9fdb43",
             "Value": {
                 "id": "e9f50f62-6b7e-4201-8526-ce96ac31dea9",
@@ -404,6 +452,22 @@
                 "id": "268dcfb5-d020-426e-945f-e3cbf1d20008",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cd91671e-6416-4ab9-b72a-fbc4a7fd691a",
+            "Value": {
+                "id": "34fa89b5-03ac-4d3e-bf08-5ae6bac952d1",
+                "resourcePath": "objects\\obj_correctMark\\obj_correctMark.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d1f3e6b7-3c87-4499-be4f-3a8a9714da60",
+            "Value": {
+                "id": "8892d400-ad19-4a89-892d-1715ef925b89",
+                "resourcePath": "objects\\obj_incorrectMark\\obj_incorrectMark.yy",
+                "resourceType": "GMObject"
             }
         },
         {
